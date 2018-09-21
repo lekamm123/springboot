@@ -1,0 +1,7 @@
+logging.level.org.springframework:DEBUG
+server.port=9200
+welcome.message=return welcome message from message service ${server.port}!
+basic.value=true
+basic.message=welCome
+basic.id=234
+ 

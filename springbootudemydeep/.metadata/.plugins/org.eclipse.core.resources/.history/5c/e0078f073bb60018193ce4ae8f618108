@@ -1,0 +1,8 @@
+package com.in28minutes.springboot.configration;
+
+public class basicConfigration {
+	private boolean value;
+	private String message;
+	private int id;
+
+}

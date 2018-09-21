@@ -1,0 +1,14 @@
+package com.in28minutes.springboot.Controller;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SurveyControllerT {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
